@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+__PhD student__
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Supervisor: [Prof. Michael E. Cates] <br/> 
+Group: [Soft Matter Group] 
 
 
-[jekyll-organization]: https://github.com/jekyll
+[Department of Applied Maths and Theoretical Physics], <br/>
+Centre of Mathematical Sciences, <br/>
+University of Cambridge, <br/>
+Wilberforce Road <br/>
+CB3 0WA, United Kingdom <br/>
+
+[Prof. Michael E. Cates]: http://www.damtp.cam.ac.uk/people/mec22/
+[Soft Matter Group]: http://www.damtp.cam.ac.uk/research/softmatter/
+[Department of Applied Maths and Theoretical Physics]: http://www.damtp.cam.ac.uk

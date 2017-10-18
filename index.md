@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Irene Li's homepage
+title: Home
 ---
 
 # Hello 
 
-## My name is Irene. A PhD student working in the Soft Matter group at DAMTP. 
-
+## This is Irene's homepage
