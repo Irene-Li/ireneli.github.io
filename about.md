@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 __PhD student__
 
-Supervisor: [Prof. Michael E. Cates] <br/> 
-Group: [Soft Matter Group] 
+Supervisor: [Prof. Michael E. Cates] <br/>
+Group: [Soft Matter Group]
 
 
 [Department of Applied Maths and Theoretical Physics], <br/>

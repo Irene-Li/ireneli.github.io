@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Research
-permalink: /research/
 ---
 
-I am interested in exploring the non-equilibrium nature of Active Matter systems. 
+I am interested in exploring the non-equilibrium nature of Active Matter systems.
 
 Active matter consists of a large number of “active” particles, each of which is capable of consuming energy locally, causing them to move with deterministic or stochastic rules that break one of the usual symmetries of mechanics (time-reversal symmetry). Examples of active matter are commonplace in biology: bird flocks, bacteria colonies, tumour growth, self-organising bio-polymers etc.
 
